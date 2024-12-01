@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JavaProjectApplication {
 
 	public static void main(String[] args) {
+		int i=10;
 		SpringApplication.run(JavaProjectApplication.class, args);
+		int j=20;
 	}
 
 }
